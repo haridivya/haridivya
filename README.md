@@ -7,7 +7,7 @@ Programming Languages:
 >HTML
 libraries:
 >Numpy
->Panadas
+>Pandas
 <!--
 **haridivya/haridivya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
