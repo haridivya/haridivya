@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+I am H.Divya Third-Year Computer Science and Engineering Student at Mother Therse Institute of Engineering and Technology with the passion of coding and innovative Thinking.
+Programming Languages:
+>Python
+>Java
+>HTML
+Libaries:
+>Numpy
+>Panadas
 <!--
 **haridivya/haridivya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
