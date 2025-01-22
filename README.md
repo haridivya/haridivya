@@ -1,10 +1,11 @@
 ## Hi there 👋
-I am H.Divya Third-Year Computer Science and Engineering Student at Mother Therse Institute of Engineering and Technology with the passion of coding and innovative Thinking.
+I am H.Divya, a Third-Year Computer Science and Engineering Student at Mother Therese Institute of Engineering and Technology with passion of coding and innovative Thinking.
+This Readme file it is used to showcase  my Skills .
 Programming Languages:
 >Python
 >Java
 >HTML
-Libaries:
+libraries:
 >Numpy
 >Panadas
 <!--
